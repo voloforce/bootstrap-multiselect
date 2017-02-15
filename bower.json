@@ -1,7 +1,7 @@
 {
   "name": "bootstrap-multiselect-vf",
-  "description": "Twitter Bootstrap plugin to make selects user friendly.",
-  "homepage": "http://davidstutz.github.io/bootstrap-multiselect/",
+  "description": "Twitter Bootstrap plugin to make selects user friendly. orig src http://davidstutz.github.io/bootstrap-multiselect/",
+  "homepage": "https://github.com/voloforce/bootstrap-multiselect",
   "version": "0.9.14",
   "keywords": [
       "js",
